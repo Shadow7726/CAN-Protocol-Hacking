@@ -37,8 +37,10 @@
 
 ### Popular Attack Types:
 
-- Replay attack: Messages can be stored and later broadcasted, even when the message is no longer valid. This is meant to mislead or deceive other nodes in the network. The aim is to recreate and exploit the conditions at the time the original message was sent.
-- Passive eavesdropping attack: This refers to monitoring the network to track vehicle movement or communications. Attackers intercept and analyze the messages passing through the network to gather information about vehicles and their communication patterns.
+#### Replay attack: 
+Messages can be stored and later broadcasted, even when the message is no longer valid. This is meant to mislead or deceive other nodes in the network. The aim is to recreate and exploit the conditions at the time the original message was sent.
+#### Passive eavesdropping attack: 
+This refers to monitoring the network to track vehicle movement or communications. Attackers intercept and analyze the messages passing through the network to gather information about vehicles and their communication patterns.
 
 ### Additional Attack Vectors:
 
