@@ -11,6 +11,7 @@
 * Installing CAN Utils
 * [Complete Can Hacking tools](https://github.com/iDoka/awesome-canbus)
 * [SocketCAN userspace utilities and tools](https://github.com/linux-can/can-utils)
+* [CAN-BUS_Shield_V2](https://wiki.dfrobot.com/CAN-BUS_Shield_V2__SKU__DFR0370_)
 SocketCAN userspace utilities and tools
 ***
 
