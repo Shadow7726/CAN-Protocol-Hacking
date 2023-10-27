@@ -12,7 +12,7 @@
 * [Complete Can Hacking tools](https://github.com/iDoka/awesome-canbus)
 * [SocketCAN userspace utilities and tools](https://github.com/linux-can/can-utils)
 * [CAN-BUS_Shield_V2](https://wiki.dfrobot.com/CAN-BUS_Shield_V2__SKU__DFR0370_)
-SocketCAN userspace utilities and tools
+
 ***
 
 #### can-utils is a Linux specific set of utilities that enables Linux to communicate with the CAN network on the vehicle. The canutils consist of 5 main tools that we use very frequently:
