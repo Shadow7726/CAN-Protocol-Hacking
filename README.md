@@ -105,5 +105,22 @@
  candump -c -l -s 0 -a can0 [logging the can frame]
  canplayer -I abcd.log [sending the logged can frame file]
  ```
+
  
+
+```bash
+sudo ifconfig can0 txqueuelen 1000
+```
+
+- **sudo**: The `sudo` command is used to execute the following command with superuser (root) privileges, as configuring network interfaces usually requires administrative rights.
+
+- **ifconfig**: This is the command-line utility used to configure network interfaces in Unix-like operating systems, including Linux.
+
+- **can0**: This specifies the network interface to configure. `can0` is the name of the CAN bus interface.
+
+- **txqueuelen**: This option sets the length of the transmit queue for the specified interface (`can0` in this case). The transmit queue length determines how many packets can be queued for transmission at a time.
+
+- **1000**: This value (1000 in this case) specifies the length of the transmit queue. Adjusting this parameter can affect how the CAN interface manages the transmission of messages, potentially addressing issues related to buffer space availability (`No buffer space available` errors).
+
+
  
