@@ -106,7 +106,7 @@
  canplayer -I abcd.log [sending the logged can frame file]
  ```
 
- 
+  + **CAN not working with no error message or "No buffer space available**
 
 ```bash
 sudo ifconfig can0 txqueuelen 1000
