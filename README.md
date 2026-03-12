@@ -2057,7 +2057,4 @@ cansend can0 000#0105
 
 > **Legal Reminder**: This guide is for authorized security research, penetration testing, and academic study only. Unauthorized access to vehicle networks or industrial control systems is a criminal offense. Ensure you have written authorization before conducting any tests described in this document. The techniques described here, when used responsibly, help improve the security of CAN-based systems that people depend on for safety every day.
 
-- **1000**: This value (1000 in this case) specifies the length of the transmit queue. Adjusting this parameter can affect how the CAN interface manages the transmission of messages, potentially addressing issues related to buffer space availability (`No buffer space available` errors).
 
-
- 
