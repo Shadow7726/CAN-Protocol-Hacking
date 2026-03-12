@@ -2,9 +2,6 @@
   <img  width="180" src="ghost.png" />
 </p>
 
-<h1 align="center"> <b>Can Hacking</b></h1>
-<h3 align="center"><b>CAN Protocol HACKING Checklist</b></h3> 
-
 # 🚌 CAN Bus Penetration Testing: Complete End-to-End Guide
 ## J1939 · Classic CANopen · CAN FD — Security Research & Penetration Testing
 
